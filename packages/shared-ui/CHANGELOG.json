@@ -1,0 +1,20 @@
+{
+  "name": "shared-ui",
+  "entries": [
+    {
+      "date": "Thu, 16 Mar 2023 12:31:42 GMT",
+      "tag": "shared-ui_v1.1.0",
+      "version": "1.1.0",
+      "comments": {
+        "minor": [
+          {
+            "author": "email not defined",
+            "package": "shared-ui",
+            "commit": "4d7d92b6a4a9470405fd5dec85346d7defa78b7a",
+            "comment": "small changes"
+          }
+        ]
+      }
+    }
+  ]
+}

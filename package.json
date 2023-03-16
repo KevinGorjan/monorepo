@@ -1,12 +1,22 @@
 {
-  "name": "monorepo-tryout",
+  "name": "monorepo",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-   
+    "bb:change": "beachball change",
+    "bb:check": "beachball check",
+    "bb:sync": "beachball sync",
+    "bb:publish": "beachball publish"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KevinGorjan/monorepo.git"
+  },
+  "devDependencies": {
+    "beachball": "^2.31.12"
+  }
 }

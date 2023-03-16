@@ -1,6 +1,7 @@
 {
   "name": "website1",
   "private": true,
+  "version": "1.0.0",
   "scripts": {
     "build": "nuxt build",
     "dev": "nuxt dev --port=3010",
@@ -17,7 +18,7 @@
     "nuxt": "^3.2.3"
   },
   "dependencies": {
-    "shared-ui": "workspace:^1.0.0"
+    "shared-ui": "workspace:^1.1.0"
   },
   "repository": {
     "type": "git",
