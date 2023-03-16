@@ -10,10 +10,10 @@ importers:
 
   apps/website1:
     specifiers:
-      '@nuxtjs/tailwindcss': ^6.6.0
+      '@nuxtjs/tailwindcss': ^6.4.1
       beachball: ^2.31.12
-      nuxt: ^3.3.1
-      shared-ui: workspace:^1.2.0
+      nuxt: ^3.2.3
+      shared-ui: ^1.2.0
     dependencies:
       shared-ui: link:../../packages/shared-ui
     devDependencies:
@@ -23,8 +23,8 @@ importers:
 
   apps/website2:
     specifiers:
-      nuxt: ^3.3.1
-      shared-ui: workspace:^1.2.0
+      nuxt: ^3.2.3
+      shared-ui: ^1.2.0
     dependencies:
       shared-ui: link:../../packages/shared-ui
     devDependencies:
@@ -32,8 +32,8 @@ importers:
 
   packages/shared-ui:
     specifiers:
-      '@nuxt/kit': ^3.3.1
-      autoprefixer: ^10.4.14
+      '@nuxt/kit': ^3.2.3
+      autoprefixer: ^10.4.13
       postcss: ^8.4.21
       tailwindcss: ^3.2.7
     dependencies:
