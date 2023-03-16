@@ -6,13 +6,22 @@
     "dev": "nuxt dev --port=3010",
     "generate": "nuxt generate",
     "preview": "nuxt preview",
-    "postinstall": "nuxt prepare"
+    "postinstall": "nuxt prepare",
+    "bb:change": "beachball change",
+    "bb:check": "beachball check",
+    "bb:publish": "beachball publish"
   },
   "devDependencies": {
     "@nuxtjs/tailwindcss": "^6.4.1",
+    "beachball": "^2.31.12",
     "nuxt": "^3.2.3"
   },
   "dependencies": {
     "shared-ui": "workspace:^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KevinGorjan/monorepo.git",
+    "directory": "apps/website1"
   }
 }
