@@ -1,0 +1,7 @@
+{
+  "type": "minor",
+  "comment": "small changes",
+  "packageName": "shared-ui",
+  "email": "email not defined",
+  "dependentChangeType": "patch"
+}
