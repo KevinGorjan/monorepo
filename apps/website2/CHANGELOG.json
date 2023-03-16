@@ -1,0 +1,26 @@
+{
+  "name": "website2",
+  "entries": [
+    {
+      "date": "Thu, 16 Mar 2023 14:43:33 GMT",
+      "tag": "website2_v1.1.0",
+      "version": "1.1.0",
+      "comments": {
+        "minor": [
+          {
+            "author": "kevingorjan@gmail.com",
+            "package": "website2",
+            "commit": "7dfe72f38a9934e29be16540af4ed7bf36b38bcc",
+            "comment": "small updates #3"
+          },
+          {
+            "author": "beachball",
+            "package": "website2",
+            "comment": "Bump shared-ui to v1.2.0",
+            "commit": "7dfe72f38a9934e29be16540af4ed7bf36b38bcc"
+          }
+        ]
+      }
+    }
+  ]
+}

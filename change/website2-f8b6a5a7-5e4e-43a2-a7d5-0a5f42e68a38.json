@@ -1,7 +1,0 @@
-{
-  "type": "minor",
-  "comment": "small updates #3",
-  "packageName": "website2",
-  "email": "kevingorjan@gmail.com",
-  "dependentChangeType": "patch"
-}
